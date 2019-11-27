@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Emotiv_Plugin\EdkDll.cs">
+    <Files>
+      <File FileName="Assets\Contact Quality\ContactQualityUIControl.cs" Line="153" Column="2" />
+      <File FileName="..\..\Emotiv_Plugin\EdkDll.cs" Line="6" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MentalCommand" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Contact Quality" expanded="True">
+                <Node name="ContactQualityUIControl.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\GIT_UNITY\EmotivUnity_Plugin\example\MentalCommand\Assets\Contact Quality\ContactQualityUIControl.cs" line="108" column="22" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

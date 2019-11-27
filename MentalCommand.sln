@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A480F831-0D06-FBF4-E2B6-CBABEB29A900}") = "MentalCommand", "Assembly-CSharp-firstpass.csproj", "{FB0BD617-EC0C-F5C1-118A-90201178D98C}"
+EndProject
+Project("{A480F831-0D06-FBF4-E2B6-CBABEB29A900}") = "MentalCommand", "Assembly-CSharp.csproj", "{5E0346E5-2DC9-0535-EE0D-F161A16119B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB0BD617-EC0C-F5C1-118A-90201178D98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0BD617-EC0C-F5C1-118A-90201178D98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0BD617-EC0C-F5C1-118A-90201178D98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0BD617-EC0C-F5C1-118A-90201178D98C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0346E5-2DC9-0535-EE0D-F161A16119B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0346E5-2DC9-0535-EE0D-F161A16119B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0346E5-2DC9-0535-EE0D-F161A16119B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0346E5-2DC9-0535-EE0D-F161A16119B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
