@@ -16,11 +16,11 @@ There are 14 electrode on Emotiv Epoc+. The API provides the reading of average 
 - Bar Visualization
   ![Bar Visualization Demo](/bar-visualization-demo.png "Bar Visualization Demo")
   In this demo scene, the data values are visualized using the length of bars. Each bar represents a electrode on the headset. You can select a specific frequency band for visualization by clicking the buttons in the upper right corner.
-  Demo Video: https://vimeo.com/user46510389/review/373335344/2eb183eeeb 
+  Demo Video: https://vimeo.com/373335344 
 - Sphere Visualization
   ![Sphere Visualization Demo](/sphere-visualization-demo.png "Sphere Visualization Demo")
   In this demo scene, the data values are visualized using the altitudes, scales and colors of the spheres. Each sphere represents a electrode on the headset. The altitudes are affected by the alpha band. The low beta band controls the scale of the sphere. The high-beta band controls the color hue and theta controls the color saturation.
-Demo Video: https://vimeo.com/user46510389/review/373335370/0d6d72d549
+Demo Video: https://vimeo.com/373335370
 
 ## 5	Possible Issues
 - Headset contact quality low
